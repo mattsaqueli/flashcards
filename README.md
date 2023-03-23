@@ -11,7 +11,7 @@ I completed this flashcard game as part of my first project of module two course
 5. Run node index.js, the game will begin inside your terminal!
 
 ## Preview
-![Preview](insert gif link here)
+![Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU2MDM2MWEyOGM3YzgzZmUyM2FlNzA2ODFhNWE3YzRmYTVkNWQzMiZjdD1n/rIbFvCoDW9w91rdRQY/giphy.gif)
 
 ## Technologies
 JavaScript | Mocha + Chai | Terminal
